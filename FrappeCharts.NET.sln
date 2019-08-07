@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FrappeCharts.NET", "Code\FrappeCharts.NET.csproj", "{0DB7A39C-8542-491B-A5D0-395940E888B6}"
+EndProject
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DB7A39C-8542-491B-A5D0-395940E888B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DB7A39C-8542-491B-A5D0-395940E888B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DB7A39C-8542-491B-A5D0-395940E888B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DB7A39C-8542-491B-A5D0-395940E888B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BFE12CC-F763-41C0-95A6-04A7621E2538}
+	EndGlobalSection
+EndGlobal
