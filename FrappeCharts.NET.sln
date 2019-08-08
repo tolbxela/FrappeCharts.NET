@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.757
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FrappeCharts.NET", "Code\FrappeCharts.NET.csproj", "{0DB7A39C-8542-491B-A5D0-395940E888B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrappeCharts.NET Test", "Test\FrappeCharts.NET Test.csproj", "{C37518DA-A944-48AA-BE35-3F49C227ADB6}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrappeCharts.NET Demo", "Demo\FrappeCharts.NET Demo.csproj", "{C4935C36-B655-4652-9EDB-920CC440CD66}"
 EndProject
 Global
@@ -17,6 +19,10 @@ Global
 		{0DB7A39C-8542-491B-A5D0-395940E888B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DB7A39C-8542-491B-A5D0-395940E888B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DB7A39C-8542-491B-A5D0-395940E888B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C37518DA-A944-48AA-BE35-3F49C227ADB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C37518DA-A944-48AA-BE35-3F49C227ADB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C37518DA-A944-48AA-BE35-3F49C227ADB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C37518DA-A944-48AA-BE35-3F49C227ADB6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C4935C36-B655-4652-9EDB-920CC440CD66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C4935C36-B655-4652-9EDB-920CC440CD66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4935C36-B655-4652-9EDB-920CC440CD66}.Release|Any CPU.ActiveCfg = Release|Any CPU
